@@ -1,0 +1,2 @@
+# AppFriendsJavascript
+AppFriends javascript SDK
